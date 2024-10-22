@@ -1,3 +1,5 @@
+[Link to video recording of the talk](https://www.droidcon.com/2024/10/17/building-offline-ai-integrating-cnn-models-with-flutter-using-tensorflow-lite/)
+
 Repository for my talk at Fluttercon USA 2024 on training Convolutional Neural Networks (CNNs) and using them in Flutter apps
 
 ## Structure
